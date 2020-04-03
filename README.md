@@ -33,9 +33,8 @@ $ tree -L 2
 ├── build.sh
 ├── camera_classifier.py
 ├── data
-│   ├── csvs
-│   ├── images
-│   └── raw_data_with_label
+│   ├── ds_classes_equalized.csv
+│   └── ds_original.csv
 ├── data_land_marker.py
 ├── data_preparer.py
 ├── data_transformer.py
@@ -47,6 +46,8 @@ $ tree -L 2
 ├── README.md
 ├── run.sh
 └── shape_predictor_68_face_landmarks.dat
+
+4 directories, 12 files
 
 ```
 
